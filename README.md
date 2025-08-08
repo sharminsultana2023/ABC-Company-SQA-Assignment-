@@ -9,3 +9,4 @@ Setup an emulator or connect a real device.Add platform-tools to PATH. Start App
 ii. Dependencies: Install required NPM packages. 
 
 iii. How to run the tests : Connect your Android device or start an emulator . Run a test file using Node.js  Or run via test runner (if configured) View test logs in terminal and optionally record device screen using.
+iv. A screen records of automation testing drive link: https://drive.google.com/file/d/1vNNM0iijKzfmmO9XJV0QIQixIRALVL2D/view?usp=drive_link
